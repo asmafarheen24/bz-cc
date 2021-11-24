@@ -1,0 +1,15 @@
+.question{
+    padding: 7%;
+    background-color:cornflowerblue;
+    border: 5px solid black;
+}
+.solution{
+    padding: 10%;
+    background-color:cadetblue;
+    border: 5px solid black;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
